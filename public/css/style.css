@@ -1,0 +1,159 @@
+          .modal{
+                position:fixed;
+                top:0;
+                bottom:0;
+                left:0;
+                right:0;
+            
+            }
+            .modalContent{
+                width:555px;
+                background:#fff;
+         
+                margin:auto;
+                    margin-top:22px;
+            }
+            .modalheader{
+                background:#6633e1;
+                font-weight:bold;
+                padding:26px 9px;
+                color:#505050;
+                
+            }
+           .modalbody{
+                  padding:22px;
+                background:#fffff;
+                text-align:center;
+              
+              min-height: 222px;
+            }
+            .modalfooter{
+                background:#6633e1;
+                font-weight:bold;
+                padding:9px;
+                color:#505050;
+            }
+            .margin-top{
+                margin-top:70px;
+            }
+            
+            .close{
+                float:right;
+                background:red;
+                padding:3px;
+                margin-top:0px;
+                color:#fff;
+                border-radius:50%;
+            }
+                  .close:hover{
+                background:#fff;
+                    color:red;
+                  }
+                  .float-left{
+                      float:left;
+                  }
+              .float-right{
+                      float:right;
+                  }
+                  .clear{
+                      clear:both;
+                  }
+                  .container{
+                      width:960px;
+                      margin:40px auto;
+                      background:#fff;
+                  }
+                  table.list{
+                      width:100%;
+                      margin-top:33px;
+                      
+                  }
+                  table.list th{
+                      background:#1A68BB;
+                      color:#fff;
+                      padding:9px;
+                      
+                      
+                  }
+                  table.list td{
+                      padding:9px;
+                      text-align:center;
+                      
+                  }
+                   table.list tr{
+                   background:#EEEEEE;
+                      
+                  }
+                  button{
+                      padding:2px 9px;
+                      background:gainsboro;
+                      
+                  }
+                  .addnew{
+                      padding:4px 5px;
+                      text-align:center;
+                    border-bottom:1px solid pink;
+                      
+                  }
+                  table.form input,table.form td{
+                      padding:6px;
+                  }
+                   table.form input{
+                      border:1px solid black;
+                      box-shadow:none;
+                  }
+               
+                  .success{
+                      background:#99ff33;
+                      min-height:12px;
+                      width:80%;
+                      text-aligin:center;
+                      color:#fff;
+                      margin:auto;
+                  }
+                         .bar-enter-active, .bar-leave-active{
+                transition: transform .5s;
+            }
+            .bar-enter, .bar-leave-to{
+                transform:rotate(-180deg);
+             
+            }
+            .card{
+                background:#fff;
+                border:1px solid black;
+                margin: 40px auto;
+                min-height:150px;
+                width:600px;
+                text-align:center;
+            }
+            
+            .car-header{
+                background:#cccccc;
+                min-height:60px;
+                width:100%;
+                font-size:18px;
+                font-weight:bolder;
+                padding:10px 6px;
+                border-bottom:1px solid black;
+                
+            }
+            
+            
+
+                  .card-content{
+                width:100%;
+                background:#fff;
+         
+                    
+                margin:auto;
+                   
+               
+            }
+            
+             .card-body{
+                  padding:22px;
+                  background:#999999;
+                text-align:center;
+              
+              min-height: 222px;
+            }
